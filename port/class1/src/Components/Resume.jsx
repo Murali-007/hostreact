@@ -23,7 +23,7 @@ const Resume = () => {
             download={config.filename}
             style={{ width: 'fit-content' }}
           >
-            Download
+            Download Resume
           </a>
         </div>
       </div>
